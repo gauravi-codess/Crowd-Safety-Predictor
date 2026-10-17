@@ -1,0 +1,6 @@
+{
+  "name": "Crowd & Safety Predictor",
+  "description": "Plan smart, avoid crowds, and stay safer with predicted crowd levels, historical trends, and safety status information.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
